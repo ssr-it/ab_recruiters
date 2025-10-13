@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ab_recruiters/static/css/main.68f64138.css",
+    "main.js": "/ab_recruiters/static/js/main.dcdfdc64.js",
+    "index.html": "/ab_recruiters/index.html",
+    "main.68f64138.css.map": "/ab_recruiters/static/css/main.68f64138.css.map",
+    "main.dcdfdc64.js.map": "/ab_recruiters/static/js/main.dcdfdc64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f64138.css",
+    "static/js/main.dcdfdc64.js"
+  ]
+}
