@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    @apply bg-gray-950 text-white font-sans antialiased transition-colors duration-500;
+}
+
+.glass {
+    @apply bg-glass backdrop-blur-lg shadow-glass;
+}
+
+.dark .glass {
+    @apply bg-darkglass;
+}
+
+.gradient-text {
+    background: linear-gradient(90deg, #6366f1, #a21caf, #f472b6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
+}
+
+.micro-interaction {
+    @apply transition-all duration-200 ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-5px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.animate-fadeIn {
+    animation: fadeIn 0.3s ease-in-out;
+}
