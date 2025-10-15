@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ab_recruiters/static/css/main.3ab70f19.css",
-    "main.js": "/ab_recruiters/static/js/main.03f76581.js",
-    "static/media/ab-logo.png": "/ab_recruiters/static/media/ab-logo.bd1082b75388d507a4f6.png",
+    "main.css": "/ab_recruiters/static/css/main.401030f5.css",
+    "main.js": "/ab_recruiters/static/js/main.a5968564.js",
+    "static/media/ab-logo.png": "/ab_recruiters/static/media/ab-logo.1efc35169a2fd4c1ecab.png",
     "index.html": "/ab_recruiters/index.html",
-    "main.3ab70f19.css.map": "/ab_recruiters/static/css/main.3ab70f19.css.map",
-    "main.03f76581.js.map": "/ab_recruiters/static/js/main.03f76581.js.map"
+    "main.401030f5.css.map": "/ab_recruiters/static/css/main.401030f5.css.map",
+    "main.a5968564.js.map": "/ab_recruiters/static/js/main.a5968564.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ab70f19.css",
-    "static/js/main.03f76581.js"
+    "static/css/main.401030f5.css",
+    "static/js/main.a5968564.js"
   ]
 }
